@@ -53,11 +53,6 @@ Currently leading **Maithraa Technology**, where we’re building:
 
 ---
 
-⭐ **Currently Building:** *Maithraa Global*  
-🪙 **Symbol:** MTRA | 🏦 **Total Supply:** 2.25 Billion (Fixed)  
-🏢 **Operations:** India 🇮🇳 & UAE 🇦🇪  
-
----
 
 <!---
 leelambar-rana/leelambar-rana is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
